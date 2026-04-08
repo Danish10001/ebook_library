@@ -1,14 +1,16 @@
-# 📚 Libre. Ebook Library
+# OpenPage - Ebook Library
 
-A high-performance, aesthetic React application for browsing curated ebooks.
+This is a simple ebook library website made using React.
 
-## ✨ Features
-- **Aesthetic UI**: Dark mode "Linear" design system.
-- **Real-time Search**: Instant filtering by title or author.
-- **Dynamic Data**: Powered by Google Sheets via OpenSheet API.
-- **Responsive**: Fully optimized for mobile and desktop.
+## Features
 
-## 🛠️ Tech Stack
-- React.js
-- CSS-in-JS
-- OpenSheet API
+* View list of books
+* Search books by name
+* Filter by category
+* Click to open/download book
+* Data comes from Google Sheets
+
+## Tech Used
+
+* React.js
+* Google Sheets (for data)
